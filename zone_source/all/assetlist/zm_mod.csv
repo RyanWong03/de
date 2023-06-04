@@ -1,7 +1,6 @@
 rawfile,dummy.cfg
 scriptparsetree,scripts/shared/array_shared.gsc
 scriptparsetree,scripts/zm/_load.gsc
-scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
 scriptparsetree,scripts/zm/_zm_magicbox.gsc
 scriptparsetree,scripts/zm/_zm_perks.gsc
 scriptparsetree,scripts/zm/_zm_utility.gsc
@@ -25,5 +24,6 @@ scriptparsetree,scripts/zm/hud/zombie_counter.gsc
 scriptparsetree,scripts/zm/hud/zombie_counter.gsh
 scriptparsetree,scripts/zm/panzers.gsc
 scriptparsetree,scripts/zm/simon_says.gsc
+scriptparsetree,scripts/zm/special.gsc
 scriptparsetree,scripts/zm/void_symbols.gsc
 keyvaluepairs,zm_mod

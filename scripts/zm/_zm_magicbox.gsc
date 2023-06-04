@@ -1290,26 +1290,22 @@ function treasure_chest_CanPlayerReceiveWeapon( player, weapon, pap_triggers )
 
 function treasure_chest_ChooseWeightedRandomWeapon( player )
 {
-		if(level.script == "zm_castle")
-		{
-			if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "ar_cqb" ) ) )
-				return GetWeapon( "ar_cqb" );
-		}
-		if(level.script == "zm_castle")
-		{
-			if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "launcher_standard" ) ) )
-				return GetWeapon( "launcher_standard" );
-		}
-		if(level.script == "zm_castle")
-		{
-			if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "cymbal_monkey" ) ) )
-				return GetWeapon( "cymbal_monkey" );
-		}
-		if(level.script == "zm_castle")
-		{
-			if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "shotgun_fullauto" ) ) )
-				return GetWeapon( "shotgun_fullauto" );
-		}
+	if(level.script == "zm_castle")
+	{
+		if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "shotgun_fullauto" ) ) )
+			return GetWeapon( "shotgun_fullauto" );
+	}
+	if(level.script == "zm_castle")
+	{
+		if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "launcher_standard" ) ) )
+			return GetWeapon( "launcher_standard" );
+	}
+	if(level.script == "zm_castle")
+	{
+		if(!player zm_weapons::has_weapon_or_upgrade( GetWeapon( "cymbal_monkey" ) ) )
+			return GetWeapon( "cymbal_monkey" );
+	}
+	
 	
 
 	keys = array::randomize( GetArrayKeys( level.zombie_weapons ) );

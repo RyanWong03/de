@@ -19,7 +19,7 @@
 #define GLOBE 6
 #define WHEEL 7
 
-#define WISP_ORDER_0 array(HALL_RADIO,HALL_CLOCK,POWER,GLOBE)
+#define WISP_ORDER_0 array(HALL_RADIO,HALL_CLOCK,GLOBE, POWER)
 #define WISP_ORDER_1 array(POWER, HALL_RADIO, HALL_CLOCK, BARRACKS)
 
 #define WISP_ORDER_LIST array(WISP_ORDER_0,WISP_ORDER_1)
@@ -118,9 +118,9 @@ function debug()
 
 	weap = GetWeapon("elemental_bow_storm");
 	ar = GetWeapon("bowie_knife");
-	//pl zm_weapons::weapon_give(weap, 0, 0, 1);
+	pl zm_weapons::weapon_give(weap, 0, 0, 1);
 
-	pl zm_weapons::weapon_give(ar, 0, 0, 1);
+	//pl zm_weapons::weapon_give(ar, 0, 0, 1);
 
 	level flag::set("ee_start_done");
 }

@@ -10,6 +10,7 @@
 
 #define LOBBY_INDEX bgb_common::get_lobby_index()
 #define COOP_CASTLE_ABH_ZONES array("zone_v10_pad_exterior","zone_undercroft","zone_v10_pad","zone_gatehouse","zone_rooftop","zone_clocktower","zone_clocktower","zone_clocktower")
+#define TRIO_ABH array("zone_v10_pad","zone_gatehouse","zone_rooftop","zone_clocktower","zone_clocktower","zone_clocktower")
 #define SOLO_CASTLE_ABH_ZONES array("zone_rooftop","zone_gatehouse","zone_undercroft","zone_rooftop","zone_clocktower")
 #define DUO_CASTLE_ABH_ZONES array("zone_gatehouse","zone_undercroft","zone_rooftop","zone_clocktower")
 #define SYSTEM_NAME "abh_locations"
@@ -66,6 +67,7 @@ function abh_zones_lists()
 		case "zm_castle":
 			if(GetPlayers().size == 1) level.abh_zones = SOLO_CASTLE_ABH_ZONES;
 			else if(GetPlayers().size == 2) level.abh_zones = DUO_CASTLE_ABH_ZONES;
+			else if(GetPlayers().size == 3) level.abh_zones = TRIO_ABH;
 			else level.abh_zones = COOP_CASTLE_ABH_ZONES;
 			break;
 	}

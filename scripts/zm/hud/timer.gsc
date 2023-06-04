@@ -30,17 +30,14 @@ function rocket()
 
 function first_tp()
 {
-	//check if wisps are done then check if tp is bought then split
-	/*if(level.round_number < 11)
-	{
-		level flag::wait_till("time_travel_teleporter_ready");
-		print_tp(GetTime());
-		level flag::wait_till_clear("stop_time_travel");
-	}*/
-
-	level flag::wait_till("mpd_canister_replacement");
+	// level flag::wait_till("mpd_canister_replacement");
+	// print_tp(GetTime());
+	// level flag::wait_till_clear("mpd_canister_replacement");
+	level flag::wait_till_all(Array("elemental_storm_batteries", "elemental_storm_beacons_charged"));     
+	level flag::wait_till("time_travel_teleporter_ready");
+	level flag::wait_till("castle_teleporter_used");
 	print_tp(GetTime());
-	level flag::wait_till_clear("mpd_canister_replacement");
+	level flag::wait_till_clear("castle_teleporter_used");
 }
 
 function dempsey()

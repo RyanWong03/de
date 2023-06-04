@@ -8,109 +8,109 @@ ignore_missing_shipped,core_common
 ignore_missing_shipped,zm_common
 ignore_missing_shipped,zm_patch
 rawfile,dummy.cfg
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\dummy.cfg,1618546775,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\dummy.cfg,1680928010,
 scriptparsetree,scripts/zm/_load.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_load.gsc,1641182751,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1618545972,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_load.gsc,1685886724,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1680927784,
 scriptparsetree,scripts/zm/_zm_magicbox.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_magicbox.gsc,1641171687,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1618545972,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1618546007,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1618546007,
-scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_ai_dogs.gsc,1618534212,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_magicbox.gsc,1685752019,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1680927784,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1680927785,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1680927762,
 scriptparsetree,scripts/zm/_zm_perks.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_perks.gsc,1621453044,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1618545972,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1618546007,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1618546007,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_perks.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1680927784,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1680927785,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1680927762,
 scriptparsetree,scripts/zm/_zm_utility.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_utility.gsc,1623343975,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\statstable_shared.gsh,1618545972,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1618546007,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1618546007,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\_zm_utility.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\statstable_shared.gsh,1680927784,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1680927785,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1680927762,
 scriptparsetree,scripts/shared/array_shared.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\shared\array_shared.gsc,1621169912,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\pre_spawn.gsh,1623340889,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\shared\array_shared.gsc,1678843826,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\pre_spawn.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/abh_locations.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\abh_locations.gsc,1621711804,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\abh_locations.gsc,1685751591,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/array_override.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsc,1620002972,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/array_override.gsh
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/bgb_common.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\bgb_common.gsc,1620004018,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\bgb_common.gsc,1678843827,
 scriptparsetree,scripts/zm/arrays/pre_spawn.gsh
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\pre_spawn.gsh,1623340889,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\pre_spawn.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/spawns.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\spawns.gsc,1641187324,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\spawns.gsc,1685751494,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/arrays/fixed_zombie_speed.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\fixed_zombie_speed.gsc,1622767594,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\fixed_zombie_speed.gsc,1678843827,
 scriptparsetree,scripts/zm/arrays/player_spawn_points.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\player_spawn_points.gsc,1622766339,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\player_spawn_points.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/castle_wisps.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_wisps.gsc,1623349437,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_wisps.gsc,1685903281,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/castle_keeper.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_keeper.gsc,1621378174,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_keeper.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/fireplace.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\fireplace.gsc,1621855768,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\fireplace.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/simon_says.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\simon_says.gsc,1621015558,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\simon_says.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
 scriptparsetree,scripts/zm/panzers.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\panzers.gsc,1622766035,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\panzers.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/void_symbols.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\void_symbols.gsc,1621126188,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1620002984,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\void_symbols.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\arrays\array_override.gsh,1678843827,
 scriptparsetree,scripts/zm/hud/hud_common.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsc,1640652390,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1618545962,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1620003826,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1678843827,
 scriptparsetree,scripts/zm/hud/hud_common.gsh
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1620003826,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1678843827,
 scriptparsetree,scripts/zm/hud/zombie_counter.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsc,1620948694,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1620003826,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsh,1641174348,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsc,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\hud_common.gsh,1678843827,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsh,1678843827,
 scriptparsetree,scripts/zm/hud/zombie_counter.gsh
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsh,1641174348,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\zombie_counter.gsh,1678843827,
 scriptparsetree,scripts/zm/hud/timer.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\timer.gsc,1641173706,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\timer.gsc,1685888221,
 scriptparsetree,scripts/zm/hud/rocket_timer.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\rocket_timer.gsc,1623272358,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\hud\rocket_timer.gsc,1678843827,
 scriptparsetree,scripts/zm/castle_var_overrides.gsc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_var_overrides.gsc,1622213972,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\castle_var_overrides.gsc,1678843827,
+scriptparsetree,scripts/zm/special.gsc
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\scripts\zm\special.gsc,1685886668,
 texturecombo,zm_mod
 assetlist,zm_mod
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1618545924,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\zone_source\zm_mod.zone,1641177893,74c0b86a,4b525a07,d1e45689,72ff9bc8
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\zm_mod.class,1618546010,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\mod_default.class,1618546010,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\default.class,1618545976,
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\base_patch.zpkg,1618546010,5a76b7f7,40123946,eb5bedee,b0ac8d77
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_pre_gfx.csv,1618546772,9a291896,f3713a9b,75a0b66e,703a40af
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_patch.csv,1618546768,414521c8,b00c4bd2,1cb776ba,dd6e2742
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_gfx.csv,1618546729,eb35b869,6f0759a0,375b27d8,7e4abcbc
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_post_gfx.csv,1618546768,c5b160fe,8def529b,2bc851dc,de320c91
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_ui.csv,1618546718,6eac37ef,af745f35,9f02acd6,5ef64937
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_common.csv,1618543657,019dcec6,25201477,4f369f35,6e14d2d0
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_common.csv,1618546772,13082a68,1dc6b820,d17e526c,1388be90
-	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_patch.csv,1618546729,f50ca787,734c91b5,790ad58b,fcf5905b
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1680927745,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\de\zone_source\zm_mod.zone,1685886939,a447c5ee,30ebd846,1abde681,8e599f1e
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\zm_mod.class,1680927763,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\mod_default.class,1680927789,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\default.class,1680927765,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\zone_source\base_patch.zpkg,1680927766,5a76b7f7,40123946,eb5bedee,b0ac8d77
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_pre_gfx.csv,1680928006,9a291896,f3713a9b,75a0b66e,703a40af
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_patch.csv,1680927653,414521c8,b00c4bd2,1cb776ba,dd6e2742
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_gfx.csv,1680928007,eb35b869,6f0759a0,375b27d8,7e4abcbc
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_post_gfx.csv,1680928006,c5b160fe,8def529b,2bc851dc,de320c91
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_ui.csv,1680927985,6eac37ef,af745f35,9f02acd6,5ef64937
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_common.csv,1680927118,019dcec6,25201477,4f369f35,6e14d2d0
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_common.csv,1680928006,13082a68,1dc6b820,d17e526c,1388be90
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_patch.csv,1680927985,f50ca787,734c91b5,790ad58b,fcf5905b
 	spawn,expect,core_all
 	spawn,expect,zm_common_all
 errorcount,0

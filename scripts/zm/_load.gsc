@@ -57,7 +57,7 @@
 #using scripts\zm\_zm_zonemgr;
 
 //custom files
-#using scripts\zm\_zm_ai_dogs;
+//#using scripts\zm\_zm_ai_dogs;
 #using scripts\zm\_zm_perks;
 #using scripts\zm\castle_wisps;
 #using scripts\zm\castle_keeper;
@@ -73,6 +73,7 @@
 #using scripts\zm\panzers;
 #using scripts\zm\arrays\player_spawn_points;
 #using scripts\zm\hud\rocket_timer;
+#using scripts\zm\special;
 
 #precache( "fx", "_t6/bio/player/fx_footstep_dust" );
 #precache( "fx", "_t6/bio/player/fx_footstep_sand" );
@@ -93,7 +94,7 @@ function main()
  	footsteps();
 	system::wait_till( "all" );
 	level thread load::art_review();
-	level thread debug();
+	//level thread debug();
 	level thread castle_wisps::init();
 	level thread castle_keeper_route::init();
 	level thread abh_locations::init();
@@ -102,8 +103,9 @@ function main()
 	level thread void_symbols::init();
 	level thread fireplace::init();
 	level thread simon_says::init();
+	level thread fixed_special_rounds::castle_dog_rounds();
 	//level thread castle_bow_order::init();
-	level thread fixed_zombie_speed::main();
+	//level thread fixed_zombie_speed::main();
 	level thread panzers::init();
 	level thread initial_spawn_points::init();
 

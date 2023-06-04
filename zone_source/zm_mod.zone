@@ -8,7 +8,7 @@ rawfile,dummy.cfg
 //universal files
 scriptparsetree,scripts/zm/_load.gsc
 scriptparsetree,scripts/zm/_zm_magicbox.gsc
-scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
+//scriptparsetree,scripts/zm/_zm_ai_dogs.gsc
 scriptparsetree,scripts/zm/_zm_perks.gsc
 scriptparsetree,scripts/zm/_zm_utility.gsc
 
@@ -42,4 +42,6 @@ scriptparsetree,scripts/zm/hud/rocket_timer.gsc
 
 //misc files
 scriptparsetree,scripts/zm/castle_var_overrides.gsc
+
+scriptparsetree,scripts/zm/special.gsc
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
